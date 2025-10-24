@@ -4,24 +4,24 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Wonderswan Color</text>
+    <text>WASM4</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Wonderswan</text>
+    <text>WebAssembly</text>
 
   </text>
   <text name="sys_line2" extra="true">
-    <text>Color</text>
+    <text>WASM4</text>
 
 </text>
   <text name="shortdescription" extra="true">
-   <text>1999  ·  16-bit Handheld Console</text>
+   <text>2017  ·  Cross Platform</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Powered by a 16 bit central processing unit, it took advantage of a low price point and long battery life in comparison to its competition</text>
+   <text>4 colors Low-level game console using WebAssembly. ROMs are small, self-contained .wasm files</text>
   </text>
  </view>
 </theme>
