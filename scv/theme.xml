@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Super Cassette Vision</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Super Cassette</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Vision</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1984-1987  ·  8-bit console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Successor to the Cassette Vision. Made in Japan but also released in France. 30 Games, 16 released in Europe</text>
+  </text>
+ </view>
+</theme>

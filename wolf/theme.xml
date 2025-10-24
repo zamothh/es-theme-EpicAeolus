@@ -1,0 +1,24 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>EC Wolf</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>EC Wolf</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>2008  ·  Game Port</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Port of the Wolfenstein 3D engine based of Wolf4SDL. It combines the original Wolfenstein 3D engine with the user experience of ZDoom to create the most user and mod author friendly Wolf3D source port.
+   </text>
+  </text>
+ </view>
+</theme>
